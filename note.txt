@@ -1,1 +1,20 @@
-abc
+Oh My Zsh install with theme customization and Bash customization Both ->
+
+Install Oh-my-zsh via curl
+-------------------------------
+
+sudo apt install zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+
+
+
+show hidden file and replase .zshrc     (.zshrc(Copy) backup if need in future)
+replase .bashrc 
+replase .oh-my-zsh    (zip to unzip and .oh-my-zsh folder replase)
+
+
+install fira code from google font
+
+after install fira code open bash ctrl alt t  for open bash terminal and bash terminal er faka jaigai right click -> select Preferences
+then select fira code and other customize for bash terminal like screenshort

@@ -1,6 +1,7 @@
 Oh My Zsh install with theme customization and Bash customization Both ->
 
-Install Oh-my-zsh via curl
+Install Oh-my-zsh via curl.. install commnd is -> sudo apt update && sudo apt install zsh git curl -y
+
 -------------------------------
 
 sudo apt install zsh

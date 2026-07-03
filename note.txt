@@ -19,3 +19,5 @@ install fira code from google font
 
 after install fira code open bash ctrl alt t  for open bash terminal and bash terminal er faka jaigai right click -> select Preferences
 then select fira code and other customize for bash terminal like screenshort
+
+## note ubuntu 26.4 file manager setting has not hidden file show hide option inf Home directory. haha press ctrl h and magic, ctrl h for show hidden file anad dont show hidden file both
